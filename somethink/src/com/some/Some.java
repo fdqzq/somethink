@@ -10,5 +10,7 @@ package com.some;
  * @since  JDK1.6
  */
 public class Some {
-
+ public static void main(String[] args){
+	 
+ }
 }
